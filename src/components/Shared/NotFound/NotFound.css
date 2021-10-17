@@ -1,0 +1,9 @@
+.notFound{
+    height: 100vh;
+    background-image: url('https://t3.ftcdn.net/jpg/03/20/64/34/240_F_320643484_iN3DFN5k9q1dtH72EG3EaP3HyjyvmoEL.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

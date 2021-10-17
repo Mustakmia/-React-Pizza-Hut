@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1,
+        "name": "Burger",
+        "price": 599,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/isolated-shot-white-bowl-with-hot-sour-soup-perfect-food-blog-menu-usage_181624-8524.jpg"
+    },
+    {
+        "Id": 2,
+        "name": "Pizza",
+        "price": 799,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg"
+    },
+    {
+        "Id": 3,
+        "name": "Chiness",
+        "price": 1199,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/breakfast-healthy-open-sandwich-toast-with-avocado-salmon-boiled-eggs-herbs-chia-seeds-white-plate-with-copy-space-healthy-protein-food_2829-20256.jpg"
+    },
+    {
+        "Id": 4,
+        "name": "Thai Food",
+        "price": 999,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/plate-with-paleo-diet-food-boiled-eggs-avocado-cucumber-nuts-cherry-strawberries-paleo-breakfast-top-view_2829-17444.jpg"
+    },
+    {
+        "Id": 5,
+        "name": "pizza",
+        "price": 599,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/chicken-steak-with-lemon-tomato-chili-carrot-white-plate_1150-25887.jpg"
+    },
+    {
+        "Id": 6,
+        "name": "Soup",
+        "price": 699,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/chicken-steak-with-lemon-tomato-chili-carrot-white-plate_1150-25887.jpg"
+    },
+    {
+        "Id": 7,
+        "name": "pizza",
+        "price": 799,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/healthy-hearty-salad-tuna-green-beans-tomatoes-eggs-potatoes-black-olives-close-up-bowl-table_2829-4485.jpg"
+    },
+    {
+        "Id": 8,
+        "name": "Curry",
+        "price": 899,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?size=338&ext=jpg"
+    },
+    {
+        "Id": 9,
+        "name": "pizza",
+        "price": 1199,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://img.freepik.com/free-photo/hands-holding-american-tasty-burger_23-2148258499.jpg?size=338&ext=jpg"
+    },
+    {
+        "Id": 10,
+        "name": "Sandwitch",
+        "price": 599,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/delicious-sandwich-with-green-salad-tomatoes-ham-inside-plate-with-french-fries_140725-29970.jpg"
+    },
+    {
+        "Id": 11,
+        "name": "pizza",
+        "price": 399,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-vector/colorful-round-tasty-pizza_1284-10219.jpg"
+    },
+    {
+        "Id": 12,
+        "name": "Burger",
+        "price": 899,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/front-view-meat-burger-with-cheese-salad-tomatoes-dark-floor_140725-89524.jpg"
+    },
+    {
+        "Id": 13,
+        "name": "Soup",
+        "price": 299,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/front-viehttps://image.freepik.com/free-photo/aliv-laddu-halim-ladoo-garden-cress-seed-sweet-balls-very-nutritious-food-winters-new-moms-popular-food-from-india-served-bowl-plate_466689-5889.jpg"
+    },
+    {
+        "Id": 14,
+        "name": "Vegetable",
+        "price": 499,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://img.freepik.com/free-photo/fried-broccoli-with-garlic-shrimp-thai-food_1150-26470.jpg?size=338&ext=jpg"
+    },
+    {
+        "Id": 15,
+        "name": "Pizza",
+        "price": 499,
+        "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+        "image": "https://image.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg"
+    }
+]
